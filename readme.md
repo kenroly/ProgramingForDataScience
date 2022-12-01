@@ -15,6 +15,7 @@ Trong quá trình code, cần commit nhiều lần (mỗi tính năng) để ch�
 **Quy trình commit code
 git commit -m "message"     (Mô tả những gì mình đã code trong message trong cặp dấu nháy kép, nhớ save hết trước khi commit)
 git push
+Nếu push code lần đầu sau khi tạo branch sẽ cần set upstream thì khi git push sẽ hiện thông báo, chỉ cần copy câu thông báo paste lại vào terminal là được.
 
 Sau khi code xong:
 Bước 1: Kiểm tra kỹ xem các tính năng đã được commit hết chưa, đã push lên remote repository hết chưa.
